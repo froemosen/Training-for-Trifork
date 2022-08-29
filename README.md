@@ -4,7 +4,7 @@
 ## Overview of folders and documents
 ### Plan - how to learn Java, Docker and Kotlin
  * I have made a pdf, that describes, what I'll study to get ready :))
- 
+  
    ![Plan pdf](https://github.com/froemosen/Training-for-Trifork/blob/main/Documents/Plan.pdf)
 
 ### Status - how the plan is going
