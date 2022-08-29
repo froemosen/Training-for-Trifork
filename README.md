@@ -3,9 +3,18 @@
 
 ## Overview of folders and documents
 ### Plan - how to learn Java, Docker and Kotlin
+![Plan](https://github.com/froemosen/Training-for-Trifork/blob/main/Documents/Plan.pdf)
 <object data="https://github.com/froemosen/Training-for-Trifork/raw/main/Documents/Learning%20Status.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/froemosen/Training-for-Trifork/raw/main/Documents/Learning%20Status.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/froemosen/Training-for-Trifork/raw/main/Documents/Learning%20Status.pdf">Download PDF</a>.</p>
+        <p><a href="https://github.com/froemosen/Training-for-Trifork/raw/main/Documents/Learning%20Status.pdf">PDF with plan</a>.</p>
+    </embed>
+</object>
+
+### Status - how the plan is going
+![Status](https://github.com/froemosen/Training-for-Trifork/raw/main/Documents/Learning%20Status.pdf)
+<object data="https://github.com/froemosen/Training-for-Trifork/raw/main/Documents/Learning%20Status.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/froemosen/Training-for-Trifork/raw/main/Documents/Learning%20Status.pdf">
+        <p><a href="https://github.com/froemosen/Training-for-Trifork/raw/main/Documents/Learning%20Status.pdf">PDF with plan</a>.</p>
     </embed>
 </object>
 
