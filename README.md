@@ -3,13 +3,21 @@
 
 ## Overview of folders and documents
 ### Plan - how to learn Java, Docker and Kotlin
-![Plan pdf](https://github.com/froemosen/Training-for-Trifork/blob/main/Documents/Plan.pdf)
+ * I have made a pdf, that describes, what I'll study to get ready :))
+ 
+ ![Plan pdf](https://github.com/froemosen/Training-for-Trifork/blob/main/Documents/Plan.pdf)
 
 ### Status - how the plan is going
-![Status pdf](https://github.com/froemosen/Training-for-Trifork/raw/main/Documents/Learning%20Status.pdf)
+* I have also made three different status-pdf's, that start with a checklist of progress, followed by my personal notes on the subjects (probably not important for others that myself :P). 
+  
+  ![JAVA status-pdf](https://github.com/froemosen/Training-for-Trifork/raw/main/Documents/Learning%20Status.pdf)
+  
+  ![DOCKER status-pdf](https://github.com/froemosen/Training-for-Trifork/raw/main/Documents/Learning%20Status.pdf)
+  
+  ![KOTLIN status-pdf](https://github.com/froemosen/Training-for-Trifork/raw/main/Documents/Learning%20Status.pdf)
 
 
-### Coding
+### Coding (Learning by doing)
 * **Initial Ducking Around ([Here](https://github.com/froemosen/Training-for-Trifork/tree/main/Initial%20Ducking%20Around))**
   * Folder containing .java-file with:
     * initial Hello World-program, and
