@@ -3,9 +3,9 @@
 
 ## Overview of folders and documents
 ### Plan - how to learn Java, Docker and Kotlin
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://yoursite.com/the.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+<object data="https://github.com/froemosen/Training-for-Trifork/raw/main/Documents/Learning%20Status.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/froemosen/Training-for-Trifork/raw/main/Documents/Learning%20Status.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/froemosen/Training-for-Trifork/raw/main/Documents/Learning%20Status.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
