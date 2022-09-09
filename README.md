@@ -10,11 +10,11 @@
 ### Status - how the plan is going
 * I have also made three different status-pdf's, that start with a checklist of progress, followed by my personal notes on the subjects (probably not important for others that myself :P). 
   
-  ![JAVA status-pdf](https://github.com/froemosen/Training-for-Trifork/blob/main/Documents/Learning%20Status%20Java.pdf)
+   - [x] ![JAVA status-pdf](https://github.com/froemosen/Training-for-Trifork/blob/main/Documents/Learning%20Status%20Java.pdf)
   
-  ![DOCKER status-pdf](https://github.com/froemosen/Training-for-Trifork/blob/main/Documents/Learning%20Status%20Docker.pdf)
+   - [ ] ![DOCKER status-pdf](https://github.com/froemosen/Training-for-Trifork/blob/main/Documents/Learning%20Status%20Docker.pdf)
   
-  ![KOTLIN status-pdf](https://github.com/froemosen/Training-for-Trifork/blob/main/Documents/Learning%20Status%20Kotlin.pdf)
+   - [ ] ![KOTLIN status-pdf](https://github.com/froemosen/Training-for-Trifork/blob/main/Documents/Learning%20Status%20Kotlin.pdf)
 
 
 ### Coding (Learning by doing)
