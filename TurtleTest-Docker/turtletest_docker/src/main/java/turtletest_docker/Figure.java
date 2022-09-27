@@ -1,3 +1,5 @@
+package turtletest_docker;
+
 import java.awt.Color;
 
 abstract class Figure {

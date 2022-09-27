@@ -1,3 +1,8 @@
+package turtletest_docker;
+
+import edu.princeton.cs.introcs.StdDraw;
+import java.lang.Thread;
+
 /******************************************************************************
  *  Compilation:  javac Turtle.java
  *  Execution:    java Turtle
@@ -40,7 +45,12 @@ public class Turtle {
 
     // pause t milliseconds
     public void pause(int t) {
-        StdDraw.pause(t);
+        try {
+            Thread.sleep(t);
+        }
+        catch (InterruptedException e) {
+            System.out.println("Error sleeping");
+        }
     }
 
 
@@ -65,9 +75,10 @@ public class Turtle {
     }
 
 
+    /* 
     // sample client for testing
     public static void main(String[] args) {
-        StdDraw.enableDoubleBuffering();
+        //StdDraw.enableDoubleBuffering();
         double x0 = 0.5;
         double y0 = 0.0;
         double a0 = 60.0;
@@ -81,5 +92,5 @@ public class Turtle {
         turtle.turnLeft(120.0);
         turtle.show();
     }
-
+*/
 }

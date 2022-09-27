@@ -1,4 +1,7 @@
+package turtletest_docker;
+
 import java.awt.Color;
+import edu.princeton.cs.introcs.StdDraw;
 
 class RegularPolygon extends Figure {
     //Variables for the entire class

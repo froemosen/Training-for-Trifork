@@ -1,8 +1,11 @@
+package turtletest_docker;
+
 import java.util.Scanner;
 import java.lang.Math;
+import edu.princeton.cs.introcs.StdDraw;
+
 
 public class Main {   
- 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
