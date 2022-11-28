@@ -12,9 +12,9 @@
   
    - [x] ![JAVA status-pdf](https://github.com/froemosen/Training-for-Trifork/blob/main/Documents/Learning%20Status%20Java.pdf)
   
-   - [ ] ![DOCKER status-pdf](https://github.com/froemosen/Training-for-Trifork/blob/main/Documents/Learning%20Status%20Docker.pdf)
+   - [x] ![DOCKER status-pdf](https://github.com/froemosen/Training-for-Trifork/blob/main/Documents/Learning%20Status%20Docker.pdf)
   
-   - [ ] ![KOTLIN status-pdf](https://github.com/froemosen/Training-for-Trifork/blob/main/Documents/Learning%20Status%20Kotlin.pdf)
+   - [x] ![KOTLIN status-pdf](https://github.com/froemosen/Training-for-Trifork/blob/main/Documents/Learning%20Status%20Kotlin.pdf)
 
 
 ### Coding (Learning by doing)
