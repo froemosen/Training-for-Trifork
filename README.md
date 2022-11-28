@@ -14,7 +14,7 @@
   
    - [x] ![DOCKER status-pdf](https://github.com/froemosen/Training-for-Trifork/blob/main/Documents/Learning%20Status%20Docker.pdf)
   
-   - [ ] ![KOTLIN status-pdf](https://github.com/froemosen/Training-for-Trifork/blob/main/Documents/Learning%20Status%20Kotlin.pdf)
+   - [ ] ![KOTLIN status-pdf](https://github.com/froemosen/Training-for-Trifork/blob/main/Documents/Learning%20Status%20Kotlin.pdf) * Kotlin skim-læses blot, da mere tid blev brugt på at lære Docker, Maven
 
 
 ### Coding (Learning by doing)
